@@ -14,7 +14,7 @@
    </files>
       <imports>
        <import>
-   <groupId>epsitec</groupId>
+   <groupId>speedy-blupi-I-legacy-mods</groupId>
    <modId>speedy-blupi-I-legacy-image08</modId>
    <version>1.0.0</version>
        </import>
