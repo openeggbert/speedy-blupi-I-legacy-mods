@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mod>
    <modelVersion>1.0.0</modelVersion>
-   <groupId>epsitec</groupId>
+   <groupId>speedy-blupi-I-legacy-mods</groupId>
    <modId>speedy-blupi-I-legacy-full</modId>
    <version>1.0.0</version>
    <packaging>EGM</packaging>
